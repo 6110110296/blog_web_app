@@ -22,7 +22,7 @@
                   <div class="media-left">
                     <g-link :to="edge.node.author.path">
                       <figure class="image is-48x48">
-                        <img :src="`../../${edge.node.author.image}`" alt="Placeholder image" />
+                        <img :src="`/${edge.node.author.image}`" alt="Placeholder image" />
                       </figure>
                     </g-link>
                   </div>
