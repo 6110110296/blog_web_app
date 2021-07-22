@@ -21,7 +21,7 @@
                 <div class="media">
                   <div class="media-left">
                     <g-link :to="edge.node.author.path">
-                      <figure class="image is-48x48">
+                      <figure class="image is-128x128">
                         <img :src="`../../${edge.node.author.image}`" alt="Placeholder image" />
                       </figure>
                     </g-link>

@@ -5,6 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 module.exports = {
   siteName: 'BlogsWeb',
+  siteUrl: 'https:6110110296.github.io',
+  pathPrefix: '/blog_web_app',
   plugins: [
     // Load all Blog Posts from file system
     {
