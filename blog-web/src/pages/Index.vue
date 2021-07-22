@@ -10,7 +10,7 @@
                 <g-link :to="edge.node.path">
                   <figure class="image is-16by9">
                     <img
-                      :src="`../../${edge.node.featuredImage}`"
+                      :src="`/${edge.node.featuredImage}`"
                       :alt="`${edge.node.title} image`"
                     />
                   </figure>
