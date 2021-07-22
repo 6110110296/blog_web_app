@@ -1,5 +1,5 @@
 <template>
-  <Layout pageTitle="Starter Blog" pageSubtitle="Gridsome / Buefy / Netlify CMS">
+  <Layout pageTitle="Starter Blog" pageSubtitle="Games / interesting / Blogs">
     <div class="section">
       <div class="container">
         <div class="columns">
